@@ -25,13 +25,15 @@
 ### 克隆仓库：
 
 ```bash
-git clone <repository-url>
+git clone https://github.com/blue-idea/photo.git
 ```
-
 
 ### 安装所需的包：
 
 <pre>pip install PySide6 rembg pillow </pre>
+
+#或者
+pip install -r requirements.txt
 
 ### 使用
 
@@ -40,7 +42,6 @@ git clone <repository-url>
 选择图片。
 去除图片背景。(设置红色\蓝色背景前需要先点去除图片背景)
 设置背景为蓝色或红色。
-
 
 ### 许可证
 

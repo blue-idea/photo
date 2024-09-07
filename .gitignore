@@ -1,7 +1,7 @@
 node_modules/
-myenv/
 venv/
 *.pyc
 dist/
 *.log
-dist/
+build/
+.idea/
